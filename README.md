@@ -1,0 +1,2 @@
+# digitizer
+OPHTALMOLOGICAL_DIGITIZER
